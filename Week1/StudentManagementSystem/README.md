@@ -1,10 +1,10 @@
-# 🎓 Student Management System (Console-Based)
+# Student Management System (Console-Based)
 
 >
 
 ---
 
-## 📌 Overview
+## Overview
 
 The **Student Management System** is a **menu-driven console application** developed using **Core Java**.
 It allows users to **add, view, search, update, and delete student records** efficiently using **Object-Oriented Programming (OOP)** concepts and the **ArrayList** collection.
@@ -13,19 +13,19 @@ This project demonstrates real-world usage of Java fundamentals and is suitable 
 
 ---
 
-## ✨ Features
+## Features
 
-* 🔢 **Auto-generated Student ID**
-* ➕ Add new student records
-* 📄 View all students
-* 🔍 Search student by ID
-* ✏️ Update student details
-* ❌ Delete student records
-* 🧠 Clean separation of Model, Service & UI layers
+* **Auto-generated Student ID**
+* Add new student records
+* View all students
+* Search student by ID
+* Update student details
+* Delete student records
+* Clean separation of Model, Service & UI layers
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology   | Purpose                    |
 | ------------ | -------------------------- |
@@ -37,7 +37,7 @@ This project demonstrates real-world usage of Java fundamentals and is suitable 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 StudentManagementSystem
@@ -49,22 +49,19 @@ StudentManagementSystem
 ```
 
 ---
-
-## 🚀 Getting Started
-
-### ✅ Prerequisites
+### Prerequisites
 
 * Java JDK 8 or higher
 * Command Prompt / Terminal
 * Any Java IDE (VS Code / IntelliJ)
 
-### ▶️ Compile the Project
+### Compile the Project
 
 ```bash
 javac Student.java StudentService.java Main.java
 ```
 
-### ▶️ Run the Application
+### Run the Application
 
 ```bash
 java Main
@@ -72,7 +69,7 @@ java Main
 
 ---
 
-## 📸 Sample Console Output
+## Sample Console Output
 
 ```
 ===== STUDENT MANAGEMENT SYSTEM =====
@@ -93,25 +90,24 @@ Student added successfully!
 
 ---
 
-## 📦 Submission Details
+## Submission Details
 
 **Files to Submit:**
 
 * `Student.java`
 * `StudentService.java`
 * `Main.java`
-*
 
 ---
 
 ## 🔗 Useful References
 
-* 📘 Java Official Docs: [https://docs.oracle.com/javase/8/docs/](https://docs.oracle.com/javase/8/docs/)
-* 📘 OOP Concepts: [https://www.javatpoint.com/java-oops-concepts](https://www.javatpoint.com/java-oops-concepts)
-* 📘 ArrayList Guide: [https://www.geeksforgeeks.org/arraylist-in-java/](https://www.geeksforgeeks.org/arraylist-in-java/)
+* Java Official Docs: [https://docs.oracle.com/javase/8/docs/](https://docs.oracle.com/javase/8/docs/)
+* OOP Concepts: [https://www.javatpoint.com/java-oops-concepts](https://www.javatpoint.com/java-oops-concepts)
+* ArrayList Guide: [https://www.geeksforgeeks.org/arraylist-in-java/](https://www.geeksforgeeks.org/arraylist-in-java/)
 
 ---
 
-## 🙋 Author
+## Author
 
 **Name:** Omkar Sachin Narlawar
