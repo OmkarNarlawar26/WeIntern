@@ -1,0 +1,6 @@
+===== Student Grade Report =====
+
+Name: barik | Grade: 99
+Name: shatte | Grade: 95
+Name: vd | Grade: 92
+Name: omkya | Grade: 90
