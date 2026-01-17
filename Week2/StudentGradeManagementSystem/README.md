@@ -44,11 +44,11 @@ This project is ideal for **internship submission** and **beginner-to-intermedia
 ~~~text
 StudentGradeManagement/
 │
-├── StudentModel.java // Model class for student data
-├── GradeManager.java // Business logic & report generation
-├── StudentGradeApp.java // Main application (Menu-driven)
-├── Student_Report.txt // Generated report file
-└── README.md // Project documentation
+├── StudentModel.java       // Model class for student data
+├── GradeManager.java       // Business logic & report generation
+├── StudentGradeApp.java    // Main application (Menu-driven)
+├── Student_Report.txt      // Generated report file
+└── README.md               // Project documentation
 ~~~
 ---
 
